@@ -1,0 +1,19 @@
+# Ignore anime.js library files that aren't needed for deployment
+/examples
+/tests  
+/src
+/types
+/assets
+/babel.config.json
+/rollup.config.js
+/tsconfig.json
+/CONTRIBUTING.md
+/LICENSE.md
+/package-lock.json
+
+# Node modules (if any)
+node_modules/
+
+# Development files
+.git/
+.gitignore 
